@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "text": "치킨시켜먹기",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "text": "산책하기",
+      "checked": true
+    },
+    {
+      "text": "asdf",
+      "checked": false,
+      "id": 3
+    }
+  ]
+}
